@@ -1,0 +1,16 @@
+{
+  "name": "ziyan",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "backend": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "ethers": "^6.0.0",
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
