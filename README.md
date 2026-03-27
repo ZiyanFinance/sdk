@@ -2,7 +2,7 @@
 
 **ZIYAN** is a decentralized protocol that enables users to mint, trade, and earn yield on tokenized equities.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : 7hQiqV3gG4RawsBGrfWMUpc11J1tsCkgYroY879Upump
 ---
 
 ## 🌐 Overview
